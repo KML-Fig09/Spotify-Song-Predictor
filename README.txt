@@ -12,7 +12,9 @@ This project aims to predict the popularity of songs using machine learning tech
 ## Contents
 
 - `First_ML_Model_Song_Popularity_Prediction.ipynb`: The Jupyter notebook containing the entire workflow of the project, including data preprocessing, model training, and evaluation.
-- `data/`: Directory containing the dataset used for training and testing.
+- `requirements.txt/`: Text file with library requirements.
+- `README.txt/`: This file.
+- `spotify30ksongs.csv/`: Raw dataset file.
 
 ## Getting Started
 
