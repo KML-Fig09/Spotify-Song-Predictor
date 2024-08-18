@@ -19,7 +19,7 @@ This project aims to predict the popularity of songs using machine learning tech
 ### Running the Notebook in Google Colab
 
 1. **Open the Notebook in Colab:**
-   - You can open the notebook directly in Google Colab by clicking the following link: [Open in Colab](https://colab.research.google.com/github/your_username/song-popularity-prediction/blob/main/First_ML_Model_Song_Popularity_Prediction.ipynb)
+   - You can open the notebook directly in Google Colab by clicking the following link: [Open in Colab](https://colab.research.google.com/github/KML-Fig09/song-popularity-prediction/blob/main/First_ML_Model_Song_Popularity_Prediction.ipynb)
 
 2. **Install Required Libraries:**
    - Colab provides many pre-installed libraries. However, if your notebook requires additional libraries, they can be installed by running the following command in a cell:
