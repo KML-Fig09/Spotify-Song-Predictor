@@ -98,8 +98,20 @@ If you're running the notebook in an environment other than Colab or your local 
 
 ## Results
 
-- A brief summary of the model performance and key findings.
-- Include any visualizations or metrics that highlight the success of your model.
+-**Random Forest outperforms other models.**
+- **Further experimentatiosn with datasets is required.**
+
+   "It was evident that, when comparing the three models alone (without Lasso, 
+   ElasticNet, or SGD), RF was the most accurate of the three. The results were: 
+   Linear Regression: 
+   1. Mean Squared Error:  579.8830329999612 
+   2. Coefficient of Determination: 0.07214951104261491 
+   Polynomial Regression: 
+   1. Mean Squared Error: 566.6320372102773 
+   2. Coefficient of Determination: 0.09335196433569348 
+   Random Forest: 
+   1. Mean Squared Error: 75.23936801720035 
+   2. Coefficient of Determination: 0.8796121279106149"
 
 ## Contributing
 
