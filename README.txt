@@ -1,6 +1,8 @@
 # Song Popularity Prediction
 
-This project aims to predict the popularity of songs using machine learning techniques. The notebook included in this repository is designed to be run in Google Colaboratory (Colab), which provides a convenient and accessible environment for machine learning experiments.
+### This project aims to predict the popularity of songs using machine learning techniques. The notebook included in this repository is designed to be run in Google Colaboratory (Colab), which provides a convenient and accessible environment for machine learning experiments. 
+
+This was my first ever attempt at training a ML model for predictive data analysis. I have learned and grown a lot since this, and I am working on a little rewrite to clean the code up a bit. However, I wanted to include this on my github to show how far I've come in the 6 months since I made this, when I eventually upload my final MSc project, along with a rewrite of this. ###
 
 ## Project Overview
 
