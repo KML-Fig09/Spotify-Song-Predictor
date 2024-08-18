@@ -1,0 +1,18 @@
+## Dependencies
+
+The following Python libraries are required to run the code in this notebook:
+
+- **google.colab** (optional)
+- **jupyter notebook** (optional)
+- **numpy**
+- **pandas**
+- **matplotlib.pyplot**
+- **ipywidgets**
+- **scipy**
+- **seaborn**
+- **sklearn**
+  - `sklearn.ensemble`
+  - `sklearn.linear_model`
+  - `sklearn.metrics`
+  - `sklearn.model_selection`
+  - `sklearn.preprocessing`
