@@ -13,7 +13,6 @@ This project aims to predict the popularity of songs using machine learning tech
 
 - `First_ML_Model_Song_Popularity_Prediction.ipynb`: The Jupyter notebook containing the entire workflow of the project, including data preprocessing, model training, and evaluation.
 - `data/`: (Optional) Directory containing the dataset used for training and testing.
-- `models/`: (Optional) Directory where trained models are saved.
 
 ## Getting Started
 
